@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nxndikhx (Nandikha T)
 - 👀 I’m interested in Quantum Computing, Artificial Intelligence, Data Analytics and Machine Learning
-- 🌱 I’m currently learning Javascript, HTML, CSS
-- 💞️ I’m looking to collaborate on different Artificial Intelligence, Machine Learning models and Quantum Computing, Data Analytics projects
+- 💞️ I’m currently learning Javascript, HTML, CSS
+- 🌱 I’m looking to collaborate on different Artificial Intelligence, Machine Learning models and Quantum Computing, Data Analytics projects
 - 📫 How to reach me: nandikhat@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm really good in Content writing and I write poets as well!!
