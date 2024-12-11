@@ -4,7 +4,7 @@
 - 🌱 I’m looking to collaborate on different Artificial Intelligence, Machine Learning models and Quantum Computing, Data Analytics projects
 - 📫 How to reach me: nandikhat@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm really good in Content writing and I write poets as well!!
+- ⚡ Fun fact: I'm really good in Content writing and I write poems as well!!
 
 <!---
 nxndikhx/nxndikhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
