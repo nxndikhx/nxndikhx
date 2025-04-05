@@ -1,32 +1,41 @@
 <img src="https://github.com/nxndikhx/nxndikhx/blob/main/banner.png?raw=true" alt="nandikha banner" style="width:100%; border-radius: 12px;" />
+
 <h1 align="center">hi, i'm nandikha ♡</h1>
+
 <p align="center">
     ✨ feminist technologist • AI explorer • aesthetics-first thinker ✨  
     <br><br>
     🎓 4th year CSE @ SRMIST, Chennai  
-      <br><br>
+    <br><br>
     🔭 currently building: a smart parking system (parkour) & feminist AI 
-      <br><br>
+    <br><br>
     🌱 learning: optimization algorithms, quantum AI, and emotional resilience  
 </p>
 
 ---
 
-### 💻 what i do
-- 🌐 I build smart, real-world applications like **Parkour**, a modular smart parking system using YOLO, EasyOCR, and quantum-inspired algorithms.
-- 📊 I'm deeply interested in **AI + data-driven storytelling**, especially in spaces like **fashion trend analysis** and **feminist media**.
-- 🧠 I'm a curious mind who believes that **design, code, and conviction** can shape better futures.
+## 💫 about me
+I'm nandikha (she/her) — a curious mind at the intersection of **technology, feminism, and design**.  
+I believe in writing code that feels like poetry, building systems that reflect conviction, and shaping futures through intentional digital creation.
 
 ---
 
-### 🚧 current projects
-- 🅿️ **Parkour** – AI-powered parking system (slot optimization, QR login, LPR via CCTV)  
-- 🧠 **Feminist AI Trendspotter** – spotting movements, curating data, defining digital feminism  
-- ✨ **Byte The Patriarchy** – my personal femininst publishing brand  
+## 🛠️ what i do
+- 🧠 **AI with soul** – I craft real-world intelligent systems, like **Parkour**, a modular smart parking system using YOLO, EasyOCR, and quantum-inspired algorithms.
+- ✨ **Feminist tech + media** – I explore AI-powered trendspotting, feminist publishing, and digital activism through my passion project, **Byte The Patriarchy**.
+- 🎨 **Aesthetic-driven problem solving** – Clean terminals, elegant logic, soft UI design — form meets function in everything I build.
 
 ---
 
-### 🛠 tech stack
+## 🚧 current projects
+- 🅿️ **Parkour** – AI-powered parking platform with LPR, flexi slot booking & optimization
+- 📈 **Feminist AI Trendspotter** – A pipeline to identify emerging feminist digital patterns
+- 🩷 **Byte The Patriarchy** – My upcoming platform blending AI + feminist storytelling
+
+---
+
+## ⚙️ tech stack
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
 ![YOLO](https://img.shields.io/badge/-YOLO-333?style=flat-square&logo=yolov5)
@@ -36,15 +45,16 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visualstudiocode)
 
-also: ANPR • Genetic Algorithms • QAOA • QRL • Soft UI design • Clean terminal UIs
+**Also:** ANPR • Genetic Algorithms • QAOA • QRL • Soft UI Design • Terminal UIs
 
 ---
 
-### 🌸 let's connect
-- 📸 [@byte.the.patriarchy](https://instagram.com/byte.the.patriarchy)
-- 💼 [LinkedIn - Nandikha T](https://www.linkedin.com/in/nandikha-t-609503283)
-- 📝 [More coming soon – portfolio site under construction]
+## 🌐 connect with me
+
+- 💼 [LinkedIn – Nandikha T](https://www.linkedin.com/in/nandikha-t-609503283)  
+- 📸 [@byte.the.patriarchy](https://instagram.com/byte.the.patriarchy)  
+- 🧠 [More coming soon – Portfolio under construction]
 
 ---
 
-<p align="center"><i>"What if I'm not just a software engineer/ data analyst, but also a storyteller, an aesthete, a dreamer designing futures?"</i></p>
+<p align="center"><i>"What if I'm not just a software engineer or data analyst, but also a storyteller, an aesthete, a dreamer designing futures?"</i></p>
