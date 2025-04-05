@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nandikhat@gmail.com">
+  <a href="https://www.linkedin.com/in/nandikha-t-609503283">
     <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%F0%9F%92%BC%F0%9F%8C%B7-ffb6c1?style=flat-square" alt="open to opportunities badge" />
   </a>
 </p>
