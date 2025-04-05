@@ -1,4 +1,4 @@
-
+<img src="https://github.com/nxndikhx/nxndikhx/blob/main/banner.png?raw=true" alt="nandikha banner" style="width:100%; border-radius: 12px;" />
 <h1 align="center">hi, i'm nandikha ♡</h1>
 <p align="center">
     ✨ feminist technologist • AI explorer • aesthetics-first thinker ✨  
