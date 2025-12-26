@@ -54,16 +54,43 @@
 ---
 
 ### 🛠 tech stack
+
+#### languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
+![C](https://img.shields.io/badge/-C-333?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=mysql)
+
+#### AI / ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat-square&logo=keras)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikit-learn)
 ![YOLO](https://img.shields.io/badge/-YOLO-333?style=flat-square&logo=yolov5)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
 ![EasyOCR](https://img.shields.io/badge/-EasyOCR-333?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-333?style=flat-square)
+![Quantum ML](https://img.shields.io/badge/-Quantum%20ML-333?style=flat-square)
+
+#### data & systems
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visualstudiocode)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql)
+![Milvus](https://img.shields.io/badge/-Milvus-333?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-333?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG%20Pipelines-333?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-333?style=flat-square)
 
-also: ANPR • Genetic Algorithms • QAOA • QRL • UI design
+#### tools
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
+![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat-square&logo=grafana)
+![Fluentd](https://img.shields.io/badge/-Fluentd-333?style=flat-square&logo=fluentd)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat-square&logo=prometheus)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visualstudiocode)
 
 ---
 
