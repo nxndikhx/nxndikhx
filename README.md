@@ -3,7 +3,7 @@
 <h1 align="center">hi, i'm nandikha ♡</h1>
 
 <p align="center">
-✨ AI engineer • data scientist • feminist technologist ✨  
+✨ CSE engineer • feminist technologist ✨  
 <br><br>
 🎓 B.Tech in Computer Science & Engineering — SRMIST, Chennai  
 <br><br>
