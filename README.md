@@ -1,15 +1,18 @@
+
 <img src="https://github.com/nxndikhx/nxndikhx/blob/main/banner.png?raw=true" alt="nandikha banner" style="width:100%; border-radius: 12px;" />
 
 <h1 align="center">hi, i'm nandikha ♡</h1>
 
 <p align="center">
-✨ CSE engineer • feminist technologist ✨  
+✨ M.Sc. Autonomous Systems • AI Research • Robotics & Intelligent Systems ✨
 <br><br>
-🎓 B.Tech in Computer Science & Engineering — SRMIST, Chennai  
+🎓 B.Tech in Computer Science & Engineering — SRMIST, Chennai
 <br><br>
-🔭 building AI systems that mix intelligence, intention & aesthetics  
+🎓 M.Sc. Autonomous Systems — Hochschule Bonn-Rhein-Sieg, Germany
 <br><br>
-🌱 currently exploring: quantum ML, optimization algorithms & emotional resilience
+🔭 Exploring intelligent systems at the intersection of AI, robotics & healthcare technology
+<br><br>
+🌱 Currently exploring: Healthcare AI, Medical Robotics, Computer Vision, Reinforcement Learning & AI for Scientific Research
 </p>
 
 <p align="center">
@@ -21,35 +24,51 @@
 ---
 
 ## 💻 what i do
-- 🧠 Build **AI-powered, real-world systems** — smart infrastructure, ML pipelines & semantic chatbots  
-- 📷 Work with **computer vision** (YOLO + OCR) for detection, recognition & automation  
-- ⚛️ Explore **quantum & quantum-inspired ML** for optimization and decision-making  
-- 📊 Love **data-driven storytelling**, especially where tech meets society & culture  
-- 🎨 Believe good tech should be *useful, ethical, and aesthetically thoughtful*
+- 🧠 Explore **AI and intelligent systems** for real-world applications and scientific discovery
+- 🤖 Work with **robotics and autonomous systems**, exploring intelligent decision-making, optimization and human-robot interaction
+- 📷 Build **computer vision systems** using deep learning, object detection and OCR
+- 🧬 Explore **Healthcare AI and Medical Technology**, particularly AI-driven approaches to healthcare challenges
+- ⚛️ Investigate **reinforcement learning, quantum machine learning and optimization algorithms**
+- 🔬 Interested in **AI for Scientific Research**, especially at the intersection of engineering, healthcare and computational intelligence
+- 🎨 Believe good technology should be *useful, ethical, accessible and aesthetically thoughtful*
 
 ---
 
 ## 🚧 flagship projects
-### 🚗 Parkour — Smart Parking System
-- Quantum ML–based smart parking solution  
-- YOLOv11v2 + OCR for license plate detection  
-- Quantum Reinforcement Learning for optimized slot allocation  
-- 📈 97.7% accuracy | 15%+ improvement in space utilization  
-- 📄 Work filed as a **patent (2025)**  
 
-### 🧠 Smartalk
-- AI-powered customer support platform using **RAG architecture**  
-- Semantic retrieval with **vector databases (Milvus, Pinecone)**  
-- HNSW indexing + cosine similarity for fast, relevant responses
+### 🚗 Parkour — Smart Parking System
+- Quantum ML-based smart parking solution
+- YOLOv11v2 + OCR for license plate detection and recognition
+- Quantum Reinforcement Learning for optimized parking slot allocation
+- 📈 97.7% license plate recognition accuracy | 15%+ improvement in space utilization
+- 📄 Patent filed (2025)
+
+### 🧠 Smartalk — AI-Powered Customer Support
+- AI-powered customer support platform using **Retrieval-Augmented Generation (RAG)**
+- Semantic retrieval using vector databases (Milvus, Pinecone)
+- HNSW indexing and cosine similarity for efficient information retrieval
+- Focused on building context-aware and relevant conversational experiences
 
 ### 🧬 Data-Driven IVF Success Predictor
-- Machine learning system to **predict IVF cycle success probability**  
-- Used patient-specific biomarkers (AMH, BMI, age, hormonal indicators)  
-- Reinforcement Learning (PPO) to **optimize treatment pathways**  
-- Simulated adaptive treatment strategies across patient cohorts  
-- 🎯 Improved prediction accuracy over baseline ML models  
-- 🌸 Built with a strong focus on **ethical AI & healthcare impact**
+- Machine learning system for predicting IVF cycle success probability
+- Used patient-specific biomarkers including AMH, BMI, age and hormonal indicators
+- Reinforcement Learning (PPO) to explore optimized treatment pathways
+- Simulated adaptive treatment strategies across patient cohorts
+- 🎯 Explored improvements in prediction performance over baseline ML models
+- 🌸 Developed with an interest in ethical AI and healthcare applications
 
+---
+
+## 🔬 research interests
+- 🧬 Healthcare AI & Medical Technology
+- 🤖 Medical Robotics & Autonomous Systems
+- 📷 Computer Vision & Deep Learning
+- 🧠 Reinforcement Learning & Intelligent Decision-Making
+- ⚛️ Quantum Machine Learning
+- 🔬 AI for Scientific Research
+- 🦾 Human-Robot Interaction
+- 📊 Optimization Algorithms
+- 🧠 Neuroengineering
 
 ---
 
@@ -71,6 +90,13 @@
 ![EasyOCR](https://img.shields.io/badge/-EasyOCR-333?style=flat-square)
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-333?style=flat-square)
 ![Quantum ML](https://img.shields.io/badge/-Quantum%20ML-333?style=flat-square)
+
+#### robotics & intelligent systems
+![ROS](https://img.shields.io/badge/-ROS-333?style=flat-square&logo=ros)
+![Autonomous Systems](https://img.shields.io/badge/-Autonomous%20Systems-333?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333?style=flat-square)
+![Optimization](https://img.shields.io/badge/-Optimization-333?style=flat-square)
+![Human Robot Interaction](https://img.shields.io/badge/-Human--Robot%20Interaction-333?style=flat-square)
 
 #### data & systems
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
@@ -95,8 +121,8 @@
 ---
 
 ### 🌸 let's connect
-- 💼 [LinkedIn - Nandikha T](https://www.linkedin.com/in/nandikha-t-609503283)  
-- 📝 [More coming soon – portfolio site under construction]  
+- 💼 [LinkedIn - Nandikha T](https://www.linkedin.com/in/nandikha-t-609503283)
+- 📝 [More coming soon – portfolio site under construction]
 
 ---
 
